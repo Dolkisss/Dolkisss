@@ -80,9 +80,5 @@ Java • Spring Boot • PostgreSQL • Kafka • Docker
 
 ## 📫 Contact
 
-📧 Email: [kudziev.shota@yandex.ru](mailto:kudziev.shota@yandex.ru)
-💬 Telegram: @shota_kudziev
-
----
-
-⭐ Always open to collaboration, internships and backend development opportunities.
+Email: [kudziev.shota@yandex.ru](mailto:kudziev.shota@yandex.ru)
+Telegram: @shota_kudziev
