@@ -6,9 +6,25 @@
 
 I build **Java backend applications**, work with **Spring Boot**, **microservices**, and **PostgreSQL**.
 
-## 🚀 Main Project
+## 🚀 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dolkisss&repo=Delivery_project&theme=tokyonight)](https://github.com/Dolkisss/Delivery_project)
+<table>
+<tr>
+<td width="100%">
+
+### 🚚 Delivery Platform
+
+Microservices backend system that simulates a delivery order platform.
+
+#### 🔧 Stack
+Java • Spring Boot • PostgreSQL • Kafka • Docker
+
+#### 🔗 Link
+[Delivery Platform](https://github.com/Dolkisss/Delivery_project)
+
+</td>
+</tr>
+</table>
 
 ---
 
