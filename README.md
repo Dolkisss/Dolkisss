@@ -1,21 +1,21 @@
-# Hi, I'm Shota Kudziev 👋
+# Привет, я Шота Кудзиев 👋
 
-💻 **Java Backend Developer**  
-🎓 Applied Informatics Student — RTU MIREA  
-📍 Moscow, Russia  
-🌐 English B2 • Russian Native
+💻 **Java Backend-разработчик**  
+🎓 Студент направления «Прикладная информатика» — РТУ МИРЭА  
+📍 Москва, Россия  
+🌐 Английский B2 • Русский — родной
 
-I'm a Java Backend Developer with commercial experience building backend services using **Java** and **Spring Boot**.
+Java Backend-разработчик с коммерческим опытом разработки backend-сервисов на **Java** и **Spring Boot**.
 
-I work with **REST APIs**, **PostgreSQL**, **Spring Data JPA**, **microservices**, and **event-driven systems with Apache Kafka**.
+Работаю с **REST API**, **PostgreSQL**, **Spring Data JPA**, **микросервисами** и **event-driven системами на Apache Kafka**.
 
 ---
 
-## 🚀 Projects
+## 🚀 Проекты
 
 ### 🚚 Spring Delivery Platform
 
-Microservices backend system for delivery order processing.
+Микросервисная backend-система для обработки заказов по доставке.
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
@@ -25,22 +25,22 @@ Microservices backend system for delivery order processing.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
-The system is split into several services:
+Система разделена на несколько сервисов:
 
 - `order-service`
 - `payment-service`
 - `delivery-service`
 - `common-libs`
 
-Implemented REST APIs for order, payment, and delivery management, as well as **event-driven communication through Apache Kafka**.
+Реализованы REST API для управления заказами, платежами и доставкой, а также **событийно-ориентированное взаимодействие через Apache Kafka**.
 
-🔗 [View repository](https://github.com/Dolkisss/Delivery_project)
+🔗 [Посмотреть репозиторий](https://github.com/Dolkisss/Delivery_project)
 
 ---
 
 ### 🏢 Reservation Service
 
-Backend REST service for managing room reservations.
+Backend REST-сервис для управления бронированием помещений.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
@@ -48,20 +48,20 @@ Backend REST service for managing room reservations.
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
-Implemented:
+Реализовано:
 
-- Layered `Controller → Service → Repository` architecture
-- Reservation creation, updating, approval, and cancellation
-- Reservation conflict detection
-- Request validation
-- Global exception handling
-- Structured API error responses
+- Многоуровневая архитектура `Controller → Service → Repository`
+- Создание, обновление, подтверждение и отмена бронирований
+- Обнаружение конфликтов бронирования
+- Валидация запросов
+- Глобальная обработка исключений
+- Структурированные ответы API с ошибками
 
-🔗 [View repository](https://github.com/Dolkisss/Reservation_project)
+🔗 [Посмотреть репозиторий](https://github.com/Dolkisss/Reservation_project)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Технологический стек
 
 ### Java
 
@@ -86,7 +86,7 @@ Implemented:
   <img src="https://img.shields.io/badge/HTTP-005571" height="32">
 </p>
 
-### Databases
+### Базы данных
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="32">&nbsp;
@@ -97,7 +97,7 @@ Implemented:
   <img src="https://img.shields.io/badge/Locks-555555" height="32">
 </p>
 
-### Tools
+### Инструменты
 
 <p>
   <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" height="32">&nbsp;
@@ -107,10 +107,11 @@ Implemented:
   <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?logo=swagger&logoColor=black" height="32">&nbsp;
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" height="32">&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32">&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-555555" height="32">&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="32">
 </p>
 
-### Architecture
+### Архитектура
 
 <p>
   <img src="https://img.shields.io/badge/Microservices-555555" height="32">&nbsp;
@@ -120,18 +121,19 @@ Implemented:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Достижения
 
-- **Co-author of software registered with Rospatent**  
-  *“Educational economics game in the style of an interactive run”*  
-  Certificate № 2024683802
+- **Соавтор программы для ЭВМ, зарегистрированной в Роспатенте**  
+  *«Обучающая игра по экономике в стиле интерактивного забега»*, № 2024683802  
+  Свидетельство, 2024
 
-- **1st Degree Diploma** — Republican Scientific Competition for Young Researchers  
-  *“Step into the Future of Ossetia”*, 2022
+- **Диплом I степени Республиканского научного конкурса молодых исследователей**  
+  *«Шаг в будущее Осетии»*  
+  Диплом, 2022
 
 ---
 
-## 📫 Contact
+## 📫 Контакты
 
 📧 [kudziev.shota@yandex.ru](mailto:kudziev.shota@yandex.ru)  
 💬 [Telegram](https://t.me/shota_kudziev)  
